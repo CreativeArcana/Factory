@@ -1,0 +1,16 @@
+{
+    "name": "CreativeArcana.Factory.Tests.Helpers",
+    "rootNamespace": "CreativeArcana.Factory.Tests.Helpers",
+    "references": [
+        "GUID:fe829ce93b52c374f8d446768a0c8eef"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

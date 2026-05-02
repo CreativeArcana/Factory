@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78cfe7678c0e88e4f955427c04b69ec4, type: 3}
+  m_Name: EnemyKeyedFactoryCollection
+  m_EditorClassIdentifier: CreativeArcana.Factory.Example::CreativeArcana.Factory.Example.EnemyKeyedFactoryCollection
+  _entries:
+  - Key: 1
+    Component: {fileID: 15348486807407164, guid: 977d2c04bfd6e60449a8b766dbb03512, type: 3}
+    PoolSettings:
+      MaxSize: 1000
+      DefaultCapacity: 10
+      PreWarmCount: 3
+      CollectionCheck: 1
+  - Key: 2
+    Component: {fileID: 8740664809516695341, guid: 54f5b86c65c9e464eac1fbfcb98bd3a7, type: 3}
+    PoolSettings:
+      MaxSize: 1000
+      DefaultCapacity: 10
+      PreWarmCount: 2
+      CollectionCheck: 1

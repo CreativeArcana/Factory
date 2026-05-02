@@ -1,0 +1,24 @@
+{
+    "name": "CreativeArcana.Factory.Example",
+    "rootNamespace": "CreativeArcana.Factory.Example",
+    "references": [
+        "GUID:fe829ce93b52c374f8d446768a0c8eef",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "jp.hadashikick.vcontainer",
+            "expression": "",
+            "define": "FACTORY_VCONTAINER"
+        }
+    ],
+    "noEngineReferences": false
+}

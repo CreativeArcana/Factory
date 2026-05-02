@@ -1,0 +1,22 @@
+{
+    "name": "CreativeArcana.Factory",
+    "rootNamespace": "CreativeArcana.Factory",
+    "references": [
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "jp.hadashikick.vcontainer",
+            "expression": "",
+            "define": "FACTORY_VCONTAINER"
+        }
+    ],
+    "noEngineReferences": false
+}
