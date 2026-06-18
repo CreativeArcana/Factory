@@ -15,7 +15,7 @@
         {
             "name": "jp.hadashikick.vcontainer",
             "expression": "",
-            "define": "FACTORY_VCONTAINER"
+            "define": "VCONTAINER"
         }
     ],
     "noEngineReferences": false

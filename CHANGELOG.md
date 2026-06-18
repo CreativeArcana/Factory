@@ -4,6 +4,11 @@ All notable changes to this package will be documented in this file.
 
 The format is based on Keep a Changelog.
 
+## [1.1.1] - 2026-June-18
+
+### Changed
+- Changed `FACTORY_VCONTAINER` to `VCONTAINER` in Scripting Define Symbols
+
 ## [1.1.0] - 2026-April-29
 
 ### Added

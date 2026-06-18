@@ -1,4 +1,4 @@
-﻿#if FACTORY_VCONTAINER
+﻿#if VCONTAINER
 
 using UnityEngine;
 using VContainer;

@@ -1,6 +1,6 @@
 ﻿{
   "name": "com.creativearcana.factory",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "displayName": "Creative Arcana Factory",
   "description": "A lightweight Unity factory and pooling package focused on reusable pool factories, keyed pool factories, and optional VContainer-powered dependency injection.",
   "unity": "6000.2",
