@@ -1,4 +1,4 @@
-﻿#if VCONTAINER
+﻿#if VCONTAINER_AVAILABLE
 
 using UnityEngine;
 using VContainer;

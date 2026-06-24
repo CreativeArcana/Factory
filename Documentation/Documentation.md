@@ -430,7 +430,7 @@ public sealed class PoolSettings
 
 ## VContainer Integration
 
-If `VCONTAINER` is defined, the package adds VContainer-powered pooled factories.
+If `VCONTAINER_AVAILABLE` is defined, the package adds VContainer-powered pooled factories.
 
 This is especially useful when pooled prefabs depend on constructor or injection-based setup.
 

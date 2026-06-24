@@ -7,7 +7,7 @@ The format is based on Keep a Changelog.
 ## [1.1.1] - 2026-June-18
 
 ### Changed
-- Changed `FACTORY_VCONTAINER` to `VCONTAINER` in Scripting Define Symbols
+- Changed `FACTORY_VCONTAINER` to `VCONTAINER_AVAILABLE` in Scripting Define Symbols
 
 ## [1.1.0] - 2026-April-29
 

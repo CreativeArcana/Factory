@@ -72,7 +72,7 @@ Each key maps to its own internal `IPoolFactory<TProduct>`.
 
 ## VContainer Support
 
-If `VCONTAINER` is enabled (in Scripting Define Symbols), the package provides VContainer-based pool factories.
+If `VCONTAINER_AVAILABLE` is enabled (in Scripting Define Symbols), the package provides VContainer-based pool factories.
 
 These factories do not just create objects — they also instantiate them through `IObjectResolver`, which means **dependencies are injected automatically**.
 
